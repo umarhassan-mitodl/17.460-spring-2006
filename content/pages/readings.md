@@ -174,7 +174,7 @@ Roman, Peter, and David Tarr. "The Joint Chiefs of Staff: From Service Parochial
 
 Michel, Marshall L., III. *Clashes: Air Combat over North Vietnam 1965-1972.* Annapolis, MD: U.S. Naval Institute Press, 1997, chapters 1-5, 8, and 9, pp. 1-180 and 250-296. ISBN: 9781557505859.
 
-Center for Strategic and International Studies. Beyond Goldwater - Nichols: Defense Reform for a New Strategic Era. ({{% resource_link "4f79e9b5-aeaa-438b-ab9c-17973757466d" "PDF - 2.5 MB" %}})
+Center for Strategic and International Studies. Beyond Goldwater - Nichols: Defense Reform for a New Strategic Era. ({{% resource_link "0741fee7-c7bf-4716-b73f-1a757209dd10" "PDF - 2.5 MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -202,7 +202,7 @@ Divine, Robert. *The Sputnik Challenge.* New York, NY: Oxford University Press, 
 
 Wirls, Daniel. "The Strategic Defense Initiative," and "From Buildup to Build-Down." In *Buildup: The Politics of Defense in the Reagan Era.* Ithaca, NY: Cornell University Press, 1992, pp. 133-168 and 198-226. ISBN: 9780801424427.
 
-{{% resource_link "4d1d8824-fe38-487d-8645-87105fbc2065" "Deputy Secretary of Defense Wolfowitz Interview with Sam Tannenhaus, Vanity Fair" %}}
+{{% resource_link "3f25b716-fcc3-4008-b9ad-154e59ba55f0" "Deputy Secretary of Defense Wolfowitz Interview with Sam Tannenhaus, Vanity Fair" %}}
 
 Western, Jon. "The War over Iraq." In *Selling Intervention and War*. Baltimore, MD: The Johns Hopkins University Press, 2005, pp. 175-219. ISBN: 9780801881091.
 
