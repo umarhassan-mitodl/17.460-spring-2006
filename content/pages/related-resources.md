@@ -10,70 +10,70 @@ uid: 3dc48300-31ce-0c6d-5a56-7f0b8e70e7f0
 
 This section contains links to military Web sites and other related material for the course.
 
-{{% resource_link "6e288d52-8b0c-4482-b195-0ea6a65778ad" "Department of Defense" %}}
+{{% resource_link "442b9340-a495-4e34-ad51-c6f7fb354c22" "Department of Defense" %}}
 
-*   {{% resource_link "48587e49-9897-4714-95ce-f71ab2f43b58" "Defense Almanac" %}}
-*   {{% resource_link "e8e8da7d-e079-4f01-a716-62f9309da3b6" "Defense Budget" %}}
-*   Allied Contributions ({{% resource_link "f0432cd2-8707-42ff-a95f-d93bccfac42e" "PDF" %}})
-*   {{% resource_link "a742b2e4-7857-4a1e-afdd-b25a8cb95d67" "Defense Technical Information Center" %}}
+*   {{% resource_link "1b99a037-3d85-4099-bf45-42a797884a14" "Defense Almanac" %}}
+*   {{% resource_link "f2abd308-ed5d-4e47-bb45-84acca2b3aea" "Defense Budget" %}}
+*   Allied Contributions ({{% resource_link "7b9c3d72-d498-4827-a7d9-dd65e29bb5c5" "PDF" %}})
+*   {{% resource_link "ad3ec576-0e7a-486f-bb53-4940d3521850" "Defense Technical Information Center" %}}
 
-{{% resource_link "429e8ed7-dd5b-4f43-b90b-5b5cff81f144" "Department of Homeland Security" %}}
+{{% resource_link "f8e63136-c9e4-4a2b-9370-11ae5b8ed81a" "Department of Homeland Security" %}}
 
-*   Organization Chart ({{% resource_link "ade59443-6e18-4bce-ab01-ca4becc30b3e" "PDF" %}})
+*   Organization Chart ({{% resource_link "547ccfcb-000b-4bd8-8279-affe1325cead" "PDF" %}})
 
-{{% resource_link "90bc0220-b89f-411a-9349-ef1fc42aa4b6" "U.S. Army" %}}
+{{% resource_link "feea6ea0-1c9a-4d11-8551-5517a177f807" "U.S. Army" %}}
 
-*   {{% resource_link "8797826c-f92a-4f52-9bb2-29e08a872f68" "Reimer Training and Doctrine Digital Library Search Page" %}}
-*   {{% resource_link "f4c6d52c-c9e9-42b3-a527-66e11f011ac8" "Center for Army Lessons Learned" %}}
-*   {{% resource_link "90bc0220-b89f-411a-9349-ef1fc42aa4b6" "Army War College" %}}
+*   {{% resource_link "3e96b9e4-aecc-4e92-8077-02440ad0252b" "Reimer Training and Doctrine Digital Library Search Page" %}}
+*   {{% resource_link "ee31af80-9bfd-4880-aa9f-7748f280c116" "Center for Army Lessons Learned" %}}
+*   {{% resource_link "feea6ea0-1c9a-4d11-8551-5517a177f807" "Army War College" %}}
 
-{{% resource_link "eb0e1f30-1356-447d-a3d6-1fbd63f288e9" "U.S. Navy" %}}
+{{% resource_link "35ff3837-a4f8-4f85-bf49-110d32a3be4e" "U.S. Navy" %}}
 
-*   {{% resource_link "0702a3f5-a6ec-4b6c-a2fd-e3b1567badd9" "Naval War College" %}}
-*   {{% resource_link "41c1360d-9e92-4df6-b60c-f69772130622" "Naval Postgraduate School" %}}
+*   {{% resource_link "fbaf3a4d-261a-4e8b-9c35-bc822612cdb4" "Naval War College" %}}
+*   {{% resource_link "462f3ff4-ac64-401a-a254-6350694d640c" "Naval Postgraduate School" %}}
 
-{{% resource_link "9a337d17-6cf4-4933-b275-b8dea2a51b8f" "U.S. Air Force" %}}
+{{% resource_link "0915ff7c-c6f1-466f-968b-ad23c873e08e" "U.S. Air Force" %}}
 
-*   {{% resource_link "33089681-7be5-435b-9b6f-380ea05ee0ed" "Air War College" %}}
+*   {{% resource_link "832acba4-588e-4506-9724-d62401ad534e" "Air War College" %}}
 
-{{% resource_link "080e35b7-be55-4ec6-aa3c-585ea42ba2e1" "U.S. Marine Corps" %}}
+{{% resource_link "440f4bd7-45f2-4c28-9400-305e7c5a047c" "U.S. Marine Corps" %}}
 
 Unified Combatant Commands
 --------------------------
 
-*   {{% resource_link "d2db4709-99d0-454b-817c-0601103ec2ce" "Central Command" %}}
-*   {{% resource_link "0b782931-daa9-4075-af24-7bf3fc485af6" "European Command" %}}
-*   {{% resource_link "ddc36c47-87a3-4adf-b909-1c2eec160bc6" "Joint Forces Command" %}}
-*   {{% resource_link "5045a690-8a0d-4dde-86c2-9f3f14045392" "Northern Command" %}}
-*   {{% resource_link "ac23e940-8032-4903-b019-361093718e6b" "Pacific Command" %}}
-*   {{% resource_link "bee4216b-0c88-4601-a86d-a496f1ea25d1" "Southern Command" %}}
+*   {{% resource_link "75edc03a-07c7-4387-829f-af586eaf35e5" "Central Command" %}}
+*   {{% resource_link "016e60ce-3a11-46d8-9922-ac8321c62a93" "European Command" %}}
+*   {{% resource_link "f7db9345-f4b1-46f5-bb9e-cdb1f59215e0" "Joint Forces Command" %}}
+*   {{% resource_link "529ae167-85b5-4def-b7c5-ff0ad69f40a1" "Northern Command" %}}
+*   {{% resource_link "4d5c60be-80fc-4100-ae07-57c0e0d06140" "Pacific Command" %}}
+*   {{% resource_link "8bdba310-e88a-4865-8089-26c5e1b877a3" "Southern Command" %}}
 *   Special Operations Command
 *   Strategic Command
-*   {{% resource_link "452e3496-1677-49e7-b96f-b23f394f9e75" "Transportation Command" %}}
+*   {{% resource_link "31456c0a-6813-4dc8-892d-0c169e2edf82" "Transportation Command" %}}
 
 General U.S. Government
 -----------------------
 
-*   {{% resource_link "016d5219-371b-40cb-b424-e48eb3b60b87" "Congressional Budget Office" %}}
-*   {{% resource_link "2b7c0fb9-2fbc-425f-9ca4-3b8e69cafcff" "Government Accountability Office" %}}
-*   {{% resource_link "ffd89855-124b-451d-8b51-00854677d6cf" "House Armed Services Committee" %}}
-*   {{% resource_link "182afeab-8266-41a2-b364-f10f834db937" "Senate Armed Services Committee" %}}
+*   {{% resource_link "87e45045-e7d3-499c-a107-5a76b6775e97" "Congressional Budget Office" %}}
+*   {{% resource_link "ba1065dd-ccd1-4eae-9f80-a86bfaa762ab" "Government Accountability Office" %}}
+*   {{% resource_link "5b77b9a3-03df-4b8f-994f-b447549ce4e1" "House Armed Services Committee" %}}
+*   {{% resource_link "f9ba071e-540f-47c5-9b87-531c9b4bc4b8" "Senate Armed Services Committee" %}}
 
 FFRDCs
 ------
 
-*   {{% resource_link "0512e5a3-3cd7-458e-99bf-51d7a5831b7f" "The RAND Corporation" %}}
-*   {{% resource_link "ed5d35d4-bd61-44dc-81d2-6dc919554167" "The CNA Corporation" %}}
-*   {{% resource_link "522c52cf-724e-4a5c-ad35-4da1f8aaaf7b" "The Institute for Defense Analyses" %}}
+*   {{% resource_link "0a0810f8-d0d0-42bb-b86d-9493c887257d" "The RAND Corporation" %}}
+*   {{% resource_link "5269f4b9-b4c2-4ce6-a067-675da162f85f" "The CNA Corporation" %}}
+*   {{% resource_link "3bcdf684-0350-44f7-a744-e858cb6d576a" "The Institute for Defense Analyses" %}}
 
 Think Tanks
 -----------
 
-*   {{% resource_link "66990b6e-341e-4024-8c06-f71484487fd2" "The Brookings Institution" %}}
-*   {{% resource_link "3d5a4004-f9cd-4794-bb27-dd301756f2fa" "The Heritage Foundation" %}}
-*   {{% resource_link "e3e91c7c-d9c1-425e-9c45-fa951ae71aac" "The Center for Defense Information" %}}
+*   {{% resource_link "5056bd32-15ae-41c7-b6cb-a30c0feeecab" "The Brookings Institution" %}}
+*   {{% resource_link "2dfe80c2-b86e-440b-8483-533d07274b48" "The Heritage Foundation" %}}
+*   {{% resource_link "55f2c926-9e86-49d2-9945-57561bede06d" "The Center for Defense Information" %}}
 
 General Defense Information
 ---------------------------
 
-*   {{% resource_link "8cdbe7f9-a84a-4853-b2af-29b2c21b636a" "Global Security" %}}
+*   {{% resource_link "31eba5ab-6ba5-4ff8-8557-edd82b0020d5" "Global Security" %}}
